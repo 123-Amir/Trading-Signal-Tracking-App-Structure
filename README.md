@@ -24,7 +24,7 @@ A React + Express project for tracking trading signals with live Binance price u
 
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone (https://github.com/123-Amir/Trading-Signal-Tracking-App-Structure.git)
    cd project
    ```
 2. Install dependencies:
